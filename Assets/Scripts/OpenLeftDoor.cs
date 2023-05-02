@@ -11,7 +11,7 @@ public class OpenLeftDoor : MonoBehaviour
     private bool IsAtDoor = false;
 
     string codeTextValue = "";
-    public string safeCode = "12345";
+    public string safeCode = "1483";
     public GameObject codePanel;
     [SerializeField] private TextMeshProUGUI ans;
 
